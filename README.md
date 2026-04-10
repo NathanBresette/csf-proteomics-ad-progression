@@ -132,4 +132,4 @@ MIT License. See LICENSE file.
 
 ## Contact
 
-Nathan Bresette, University of Missouri
+Nathan Bresette, University of Missouri -- nbhtd@umsystem.edu
