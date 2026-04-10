@@ -1,0 +1,40 @@
+# Data files - never commit patient data
+*.csv
+*.tsv
+*.xlsx
+*.xls
+data/
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials and keys
+*.pem
+*.key
+*.env
+
+# SLURM logs
+*.out
+*.err
+*.sh
+
+# Model weights trained on patient data
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
